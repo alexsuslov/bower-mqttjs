@@ -1,0 +1,24 @@
+{
+  "name": "bower-mqttjs",
+  "authors": [
+    "Alex Suslov <suslov@me.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "bower",
+    "mqtt.js"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
