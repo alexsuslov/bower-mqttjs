@@ -1,5 +1,6 @@
 {
   "name": "bower-mqttjs",
+  "version": "1.6.3",
   "authors": [
     "Alex Suslov <suslov@me.com>"
   ],
